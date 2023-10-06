@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JazielXu
-- 👀 I’m interested in computing, wireless communication, and 5G
+- 👀 I’m interested in machine learning, wireless communication, and physics.
 - 🌱 I’m currently learning how to be a researcher..
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on ML for wireless communication
 - 📫 How to reach me: jazielxu.github.io
 
 <!---
